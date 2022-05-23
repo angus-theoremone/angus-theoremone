@@ -1,5 +1,7 @@
 👋 Hi, I’m Angus Bezzina.
+
 🧑🏻‍💻 This is my work focused account for [TheoremOne](https://github.com/theoremone).
+
 🌎 To find my other work, please visit my personal GitHub account [@angusbezzina](https://github.com/angusbezzina).
 
 <!---
